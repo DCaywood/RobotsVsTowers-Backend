@@ -1,0 +1,72 @@
+{
+    "BasicTower": {
+        "Unlocked": true,
+        "TowerLevel": 1,
+        "DamageLevel": 1,
+        "RangeLevel": 1,
+        "SpeedLevel": 1,
+        "Module1": false,
+        "Module2": false,
+        "Module3": false
+    },
+    "SlowTower": {
+        "Unlocked": true,
+        "TowerLevel": 1,
+        "DamageLevel": 1,
+        "RangeLevel": 1,
+        "SpeedLevel": 1,
+        "Module1": false,
+        "Module2": false,
+        "Module3": false
+    },
+    "DOTTower": {
+        "Unlocked": true,
+        "TowerLevel": 1,
+        "DamageLevel": 1,
+        "RangeLevel": 1,
+        "SpeedLevel": 1,
+        "Module1": false,
+        "Module2": false,
+        "Module3": false
+    },
+    "CritTower": {
+        "Unlocked": true,
+        "TowerLevel": 1,
+        "DamageLevel": 1,
+        "RangeLevel": 1,
+        "SpeedLevel": 1,
+        "Module1": false,
+        "Module2": false,
+        "Module3": false
+    },
+    "BacktrackTower": {
+        "Unlocked": true,
+        "TowerLevel": 1,
+        "DamageLevel": 1,
+        "RangeLevel": 1,
+        "SpeedLevel": 1,
+        "Module1": false,
+        "Module2": false,
+        "Module3": false
+    },
+    "StunTower": {
+        "Unlocked": true,
+        "TowerLevel": 1,
+        "DamageLevel": 1,
+        "RangeLevel": 1,
+        "SpeedLevel": 1,
+        "Module1": false,
+        "Module2": false,
+        "Module3": false
+    },
+    "BlastTower": {
+        "Unlocked": true,
+        "TowerLevel": 1,
+        "DamageLevel": 1,
+        "RangeLevel": 1,
+        "SpeedLevel": 1,
+        "Module1": false,
+        "Module2": false,
+        "Module3": false
+    } 
+}

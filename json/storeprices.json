@@ -1,0 +1,20 @@
+{
+    "ModuleChestNormal": {
+        "TowerPoints": false,
+        "Cost": 100,
+        "OnSale": false,
+        "SalePrice": 50
+    },
+    "ModuleChestRare": {
+        "TowerPoints": false,
+        "Cost": 500,
+        "OnSale": false,
+        "SalePrice": 200
+    },
+    "ModuleChestSuper": {
+        "TowerPoints": false,
+        "Cost": 1500,
+        "OnSale": false,
+        "SalePrice": 200
+    }
+}

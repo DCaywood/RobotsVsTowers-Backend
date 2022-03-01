@@ -1,0 +1,22 @@
+{
+    "RangeBoost":{
+        "unlocked": false,
+        "level": 1
+    },
+    "DamageBoost":{
+        "unlocked": false,
+        "level": 1
+    },
+    "SpeedBoost":{
+        "unlocked": false,
+        "level": 1
+    },
+    "SlowBoost":{
+        "unlocked": false,
+        "level": 1
+    },
+    "RadiusBoost":{
+        "unlocked": false,
+        "level": 1
+    }
+}

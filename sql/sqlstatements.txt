@@ -1,0 +1,26 @@
+CREATE TABLE `playerdata` (
+  `index` int(11) NOT NULL AUTO_INCREMENT,
+  `playerid` varchar(64) NOT NULL,
+  `scrap` int(11) NOT NULL DEFAULT '0',
+  `levelprogress` json DEFAULT NULL,
+  `towerprogress` json DEFAULT NULL,
+  PRIMARY KEY (`index`),
+  UNIQUE KEY `playerid_UNIQUE` (`playerid`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE `tokendb` (
+  `token` varchar(512) NOT NULL,
+  `expiretime` datetime NOT NULL,
+  UNIQUE KEY `token_UNIQUE` (`token`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE `userinfo` (
+  `index` int(11) NOT NULL AUTO_INCREMENT,
+  `deviceid` varchar(128) NOT NULL,
+  `playerid` varchar(64) NOT NULL,
+  PRIMARY KEY (`index`),
+  UNIQUE KEY `deviceid_UNIQUE` (`deviceid`),
+  UNIQUE KEY `playerid_UNIQUE` (`playerid`)
+) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+

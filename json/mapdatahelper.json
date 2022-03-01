@@ -1,0 +1,112 @@
+{
+    "map001":{
+        "unlocked": true,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map002":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map003":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map004":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map005":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map006":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map007":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map008":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map009":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    },
+    "map010":{
+        "unlocked": false,
+        "normal": false,
+        "hard": false,
+        "insane": false,
+        "challenge": false,
+        "normalStars": 0,
+        "hardStars": 0,
+        "insaneStars": 0,
+        "challengeStars": 0
+    }
+}
